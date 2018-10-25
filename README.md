@@ -5,3 +5,4 @@ MUST COMPLETE:
 –The four main pages of the website (Home, Meet the team, What we do, and Get involved)
 –Favicon
 –Open Graph (image, description, etc...)
+–(less important) browserconfig.xml: create tiles for IE11
