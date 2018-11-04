@@ -6,3 +6,4 @@ MUST COMPLETE:
 –Favicon
 –Open Graph (image, description, etc...)
 –(less important) browserconfig.xml: create tiles for IE11
+–Header at tiny screen width
