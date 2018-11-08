@@ -7,3 +7,5 @@ MUST COMPLETE:
 –Open Graph (image, description, etc...)
 –(less important) browserconfig.xml: create tiles for IE11
 –Header at tiny screen width
+–Anshuls title is now Advisor not Director of VC
+–Change pixel values to em and percentage
