@@ -21,6 +21,7 @@ ul.no-list {
 }
 ul.no-list li {
   display: inline-block;
+  border: 3px solid red;
 }
 
 #menubar {
@@ -105,10 +106,22 @@ ul.no-list li {
 }
 
 .section {
-  max-width: 600px;
+  max-width: 33em;
+  /*width: 70%;*/
   margin: 0 auto;
   text-align: center;
+
+  padding-right: 0.5em;
+  padding-left: 0.5em;
 }
+
+@media (max-width: 41em) {
+  .what-sections {
+    flex-direction: column;
+  }
+}
+
+
 .section h2 {
   font-size: 2em;
   margin-bottom: 0;
@@ -119,7 +132,12 @@ ul.no-list li {
   margin-bottom: 0;
   text-align: center;
 }
+
+.section h4 {
+  margin-bottom: 0;
+}
 .section p {
+  margin-top: 0;
   line-height: 1.6;
 }
 
@@ -179,6 +197,7 @@ ul.no-list li {
   overflow: hidden;
   display: inline-block;
 }
+
 .section ul.people .card span {
   display: block;
   max-width: 100%;
@@ -207,4 +226,42 @@ ul.no-list li {
   width: 100%;
 }
 
+#be-what {
+
+
+ }
+
+.what-sections {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-bottom: 30px;
+
+}
+
+
+.what-img-container {
+  
+
+  width: 33%;
+  
+}
+
+.what-img {
+  
+  border-radius: 50%;
+  min-width: 6em;
+  width: 60%;
+  
+  
+}
+
+.what-text {
+  width: 67%;
+  text-align: left;
+  font-size: .8em;
+  
+
+}
 /*# sourceMappingURL=be.css.map */
