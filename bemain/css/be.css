@@ -21,7 +21,6 @@ ul.no-list {
 }
 ul.no-list li {
   display: inline-block;
-  border: 3px solid red;
 }
 
 #menubar {
