@@ -55,6 +55,19 @@ ul.no-list li {
   top: -1em;
   right: 2em;
 }
+@media (max-width: 59em) {
+  .hero .left-stars {display: none;}
+  .hero .right-stars {display: none;}
+  .hero .title {font-size: 2em;}
+  .our-initiatives ul {text-align: center;}
+
+}
+
+@media (max-width: 32em) {
+  .hero .title {font-size: .8em;}
+}
+
+
 .hero .logo {
   max-width: 6em;
   display: block;
