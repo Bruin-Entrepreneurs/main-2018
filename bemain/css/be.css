@@ -15,12 +15,22 @@ body {
 ul.no-list {
   list-style-type: none;
   -webkit-padding-start: 0;
-  -webkit-margin-before: 0;
+  -webkit-margin-before: ;
   -webkit-margin-after: 0;
   text-align: center;
 }
 ul.no-list li {
   display: inline-block;
+}
+
+ul.our-initiatives {
+  padding-left: 15%;
+}
+@media (max-width: 39em){
+  ul.our-initiatives {
+    margin-left: 10%;
+    width:50%;
+  }
 }
 
 #menubar {
