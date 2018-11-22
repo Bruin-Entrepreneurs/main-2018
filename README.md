@@ -13,3 +13,4 @@ MUST COMPLETE:
 Once we finish the bone structure of the website
 –Change pixel values to em and percentage
 –Incorporate pictures of BE, like events and the group at the bonfire (Sammy)
+–Look over code and see how we can implement React
