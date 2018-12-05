@@ -8,6 +8,8 @@ MUST COMPLETE:
 –(less important) browserconfig.xml: create tiles for IE11
 –Header at tiny screen width
 –Anshuls title is now Advisor not Director of VC
+–can we change “flagship events” to “weekly nights” (on home page, what we do page, and riley’s title)
+–Make sure everyone's majors and minors are correct
 
 
 Once we finish the bone structure of the website
