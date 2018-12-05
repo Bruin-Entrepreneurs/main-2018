@@ -12,6 +12,8 @@ body {
   font-size: 1.2em;
 }
 
+
+
 ul.no-list {
   list-style-type: none;
   -webkit-padding-start: 0;
@@ -35,7 +37,7 @@ ul.our-initiatives {
 
 #menubar {
   margin: 0 auto;
-  margin-top: 10px;
+  margin-top: 1.5em;
 }
 #menubar ul li a {
   color: #214876;
@@ -43,7 +45,7 @@ ul.our-initiatives {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 0.7em;
-  padding: 0 20px 0 20px;
+  padding: 0 2em 0 1em;
 }
 #menubar ul li a:hover {
   background: #214876;
@@ -51,7 +53,7 @@ ul.our-initiatives {
 }
 
 .hero {
-  min-height: 40em;
+/*  min-height: 40em; */
   text-align: center;
   position: relative;
 }
@@ -74,7 +76,11 @@ ul.our-initiatives {
 }
 
 @media (max-width: 32em) {
-  .hero .title {font-size: .8em;}
+  .hero .title {font-size: 1.5em;}
+  .hero .truck {display: none;}
+  .hero .scooter {display: none;}
+  .what-text h4 {text-align: center;}
+  .what-text p {text-align: center;}
 }
 
 
@@ -82,12 +88,12 @@ ul.our-initiatives {
   max-width: 6em;
   display: block;
   margin: 0 auto;
-  padding: 30px 0 0 0;
+  padding: 1.5em 0 0 0;
 }
 .hero h1 {
   font-size: 3em;
   margin-bottom: 0;
-  margin-top: 20px;
+  margin-top: 1em;
   text-align: center;
 }
 .hero .tagline {
@@ -101,23 +107,34 @@ ul.our-initiatives {
   overflow: hidden;
   position: relative;
 }
+
+
 .hero .hero-img .bike {
   max-height: 4em;
   position: absolute;
   bottom: 2.5em;
   left: 40%;
+  animation: slideRightBike 5s infinite forwards;
+  animation-delay: 1s;
+  overflow: hidden;
 }
 .hero .hero-img .truck {
   max-height: 4em;
   position: absolute;
   bottom: 2.5em;
   left: 70%;
+  animation: slideRightTruck 5s infinite forwards;
+  animation-delay: 1s;
+  overflow: hidden;
 }
 .hero .hero-img .scooter {
   max-height: 4em;
   position: absolute;
   bottom: 2.5em;
   left: 10%;
+  animation: slideRightScooter 5s infinite forwards;
+  animation-delay: 1s;
+  overflow: hidden;
 }
 .hero .hero-img .buildings {
   max-height: 8em;
@@ -125,6 +142,8 @@ ul.our-initiatives {
 }
 .hero .hero-img .road {
   max-height: 5em;
+  min-height: 2.6em;
+  max-width: 100%;
 }
 
 .section {
@@ -198,7 +217,7 @@ ul.our-initiatives {
   max-width: 20em;
   font-weight: bold;
   font-size: 1em;
-  padding: 10px;
+  padding: .5em;
   width: 10em;
 }
 .section ul.people {
@@ -215,9 +234,10 @@ ul.our-initiatives {
   height: 6em;
   width: 6em;
   border-radius: 100%;
-  background: brown;
+  background: #214876;
   overflow: hidden;
   display: inline-block;
+  -webkit-transition: ease-in-out .3s;
 }
 
 .section ul.people .card span {
@@ -248,26 +268,17 @@ ul.our-initiatives {
   width: 100%;
 }
 
-#be-what {
-
-
- }
-
 .what-sections {
   position: relative;
   width: 100%;
   display: flex;
   align-items: center;
-  padding-bottom: 30px;
-
+  padding-bottom: 2em;
 }
 
 
 .what-img-container {
-  
-
   width: 33%;
-  
 }
 
 .what-img {
@@ -275,15 +286,131 @@ ul.our-initiatives {
   border-radius: 50%;
   min-width: 6em;
   width: 60%;
-  
-  
+  box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6)
 }
 
 .what-text {
   width: 67%;
   text-align: left;
   font-size: .8em;
+}
+
+.testimonials-back {
   
+  padding: 1em;
+}
+
+#testimonials-p {
+  padding: 2em;
+  text-align: left;
+  background-color: rgba(255,236,51,0.3);
+}
+
+.hero #hero-testimonials {
+  padding-top: 3em;
+  padding-bottom: 1em;
+  overflow: hidden;
+}
+
+.hero #hero-involved {
+	max-height: 10em;
+}
+
+.testimonial-container {
+	text-align: center;
+	display: flex;
 
 }
+
+.testimonial-container #quote {
+	font-size: 6em;
+	font-family: 'Secular One', sans-serif;
+  right: .15em;
+  max-width: 0em;
+  position: relative;
+}
+
+.involved-icons {
+  height: 3em;
+  padding-right: 1em;
+  padding-left: 1em;
+  padding-bottom: 3em;
+}
+
+.main-img {
+  transition: background 0.2s, color 0.2s;  
+}
+
+.main-img:hover {
+  /*animation: spinAround 2s linear infinite;*/
+  animation: magnify .5s ease-in-out infinite alternate;
+}
+
+.what-img:hover {
+  animation: float 2s ease-in-out infinite;
+}
+
+.image-frame:hover {
+  animation: magnify .4s ease-in-out;
+  animation-fill-mode: forwards;
+}
+
+@keyframes spinAround {
+  from {
+    transform: rotate(0deg)
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes magnify {
+        0% {
+            transform: scale(1.0);
+            -webkit-transform: scale(1.0);
+        }
+        100% {
+            transform: scale(1.13);
+            -webkit-transform: scale(1.13);
+        }
+    }
+
+
+  @keyframes slideRightBike {
+    0% {left: 40%;}
+    60% { left: 110%; }
+    60.1% { left: -30%; }
+    100% { left: 40%; }
+}
+
+@keyframes slideRightTruck {
+    0% {left: 70%;}
+    30% { left: 110%; }
+    30.1% { left: -20%; }
+    100% { left: 70%; }
+}
+
+@keyframes slideRightScooter {
+    0% { left: 10%; }
+    90% { left: 110%; }
+    90.1% { left: -10%; }
+    100% { left: 10%; }
+}
+
+@keyframes float {
+  0% {
+    box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+    transform: translatey(0px);
+  }
+  50% {
+    box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
+    transform: translatey(-20px);
+  }
+  100% {
+    box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+    transform: translatey(0px);
+  }
+}
+
+
 /*# sourceMappingURL=be.css.map */

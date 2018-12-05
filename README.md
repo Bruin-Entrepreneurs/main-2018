@@ -11,5 +11,8 @@ MUST COMPLETE:
 
 
 Once we finish the bone structure of the website
-–Change pixel values to em and percentage
+–Change pixel values to em and percentage DONE
 –Incorporate pictures of BE, like events and the group at the bonfire (Sammy)
+-Ratio problem when changing the size of view (mobile specifically)
+-make quotes more professional on get involved
+-make buildings or vehicles move on the main page DONE
