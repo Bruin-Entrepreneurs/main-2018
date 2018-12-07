@@ -19,4 +19,4 @@ Once we finish the bone structure of the website
 -Ratio problem when changing the size of view (mobile specifically)
 -make quotes more professional on get involved
 -make buildings or vehicles move on the main page DONE
-
+-marketing advertisement that our new website is up
