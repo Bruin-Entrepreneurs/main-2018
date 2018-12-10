@@ -2,15 +2,11 @@
 The 2018 version of bruinentrepreneurs.org
 
 MUST COMPLETE:
-–The four main pages of the website (Home, Meet the team, What we do, and Get involved)
 –Favicon
 –Open Graph (image, description, etc...)
 –(less important) browserconfig.xml: create tiles for IE11
-–Header at tiny screen width
-–Anshuls title is now Advisor not Director of VC
-–can we change “flagship events” to “weekly nights” (on home page, what we do page, and riley’s title)
 –Make sure everyone's majors and minors are correct
-
+–Get involved images
 
 Once we finish the bone structure of the website
 -marketing advertisement that our new website is up
