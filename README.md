@@ -1,11 +1,12 @@
 # main-2018
 The 2018 version of bruinentrepreneurs.org
 
-MUST COMPLETE:
-–The four main pages of the website (Home, Meet the team, What we do, and Get involved)
-–Favicon
-–Open Graph (image, description, etc...)
+Once we finish the bone structure of the website
 –(less important) browserconfig.xml: create tiles for IE11
-–Header at tiny screen width
-–Anshuls title is now Advisor not Director of VC
-–Change pixel values to em and percentage
+–Make sure everyone's majors and minors are correct
+-marketing advertisement that our new website is up
+–Get involved: when hovering over images, small description shows about each image
+–Release hover functions for all hover animations
+<!-- Yash Note: 
+  I feel like the design creates a great first impression for when the user enters the page. But when the user scrolls down on this home page, the page loses its initial vibe. We should consider adding small designs around the "About Us" and "Initiatives" text, like how Spark SC did theirs.
+-->
