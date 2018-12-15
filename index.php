@@ -1,1 +1,1 @@
-<?php include_one("main-2018-master/bemain/index.html"); ?>
+<?php header( 'Location: bemain/index.html' ) ;  ?>
