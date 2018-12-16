@@ -1,6 +1,10 @@
 # main-2018
 The 2018 version of bruinentrepreneurs.org
 
+TO MAKE CHANGES TO THE WEBSITE:
+–Push it to the master branch to the repository. And if you plan on changing the main file name for any reason you have to change it in index.php i had to deploy it as a php app as opposed to a static site. Contact Rahul for further info.
+
+
 Once we finish the bone structure of the website
 –(less important) browserconfig.xml: create tiles for IE11
 –Make sure everyone's majors and minors are correct
