@@ -8,6 +8,7 @@ TO MAKE CHANGES TO THE WEBSITE:
 Once we finish the bone structure of the website
 –(less important) browserconfig.xml: create tiles for IE11
 –Make sure everyone's majors and minors are correct
+–Yash: I'm having trouble opening the website. It takes about 10 seconds (of a blank screen) to load
 -marketing advertisement that our new website is up
 –Get involved: when hovering over images, small description shows about each image
 –Release hover functions for all hover animations
