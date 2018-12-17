@@ -253,6 +253,7 @@ li.our-initiatives{
   background: #214876;
   overflow: hidden;
   display: inline-block;
+  transition: ease-in-out .3s;
   -webkit-transition: ease-in-out .3s;
 }
 
@@ -392,8 +393,10 @@ li.our-initiatives{
 }
 
 .image-frame:hover {
-  animation: magnify .4s ease-in-out;
-  animation-fill-mode: forwards;
+  /*animation: magnify .4s ease-in-out;*/
+  /*animation-fill-mode: forwards; OFF-HOVER does not work*/
+  transform: scale(1.13);
+  transition: ease-in-out 0.4s;
 }
 
 @keyframes spinAround {
