@@ -56,16 +56,16 @@ li.our-initiatives{
   margin-top: 1.5em;
 }
 #menubar ul li {
-  color: #214876;
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 0.7em;
   padding: 0 2em 0 1em;
 }
 
 #menubar ul li a {
   text-decoration: none;
   padding: .2em;
+  color: #214876;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.7em;
   }
 
 #menubar ul li a:hover {
