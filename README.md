@@ -9,6 +9,7 @@ Once we finish the bone structure of the website
 –(less important) browserconfig.xml: create tiles for IE11
 –Natasha:
 ––make the position titles in the not bold version of that font ] OR [ make the boxes that the names are in bigger so the longer names fit on the line
+–Typo: "We ove people who are passionate to contribute."
 –Make sure everyone's majors and minors are correct
 –hovering over the Get Involved button on homepage, but not on any other page
 –get involved top section
