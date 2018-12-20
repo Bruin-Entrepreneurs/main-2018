@@ -61,7 +61,7 @@ li.our-initiatives{
 
 #menubar ul li a {
   text-decoration: none;
-  padding: .2em;
+  padding: .4em;
   color: #214876;
   text-transform: uppercase;
   font-weight: bold;
@@ -354,33 +354,74 @@ li.our-initiatives{
   position: relative;
 }
 
-.involved-icons {
+.involved-icons1 {
   height: 3em;
-  padding-right: 1em;
-  padding-left: 1em;
+  padding-right: 4em;
   padding-bottom: 3em;
+}
+
+.involved-icons2 {
+  height: 3.39em;
+  padding-bottom: 3em;
+}
+
+.involved-a {
+  text-decoration: none;
 }
 
 .main-img {
   transition: background 0.2s, color 0.2s;  
 }
 
-.be-pics-container {
-  padding: 1em;
-  border: 2px solid red;
-  height: auto;
-  /*height: 10em;*/
-
+ul.parent-container {
+width: 100%;
+overflow: auto;
+padding-left: 0;
 }
 
-.be-pics-img {
+.be-pics-container {
+  overflow: auto;
   width: 50%;
+  float: left;
+  position:relative;
+}
+
+
+.be-pics-img {
+  display: block;
+  width: 100%;
   height: auto;
   float: left;
 }
 
+.overlay {
+  position: absolute;
+  top: 0;
+  left: auto;
+  right: auto;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #A1DCF1;
+}
+
+.be-pics-container:hover .overlay {
+  opacity: .8;
+}
+
+.be-pics-text {
+  color: black;
+  font-size: 1em;
+  top: 10%;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+}
+
+
 #lastPic {
-  padding-bottom: 3em;
+  /*padding-bottom: 3em;*/
 }
 
 @media (max-width: 20em) {
