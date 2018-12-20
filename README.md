@@ -10,6 +10,8 @@ Once we finish the bone structure of the website
 –Natasha:
 ––make the position titles in the not bold version of that font ] OR [ make the boxes that the names are in bigger so the longer names fit on the line
 –Make sure everyone's majors and minors are correct
+–hovering over the Get Involved button on homepage, but not on any other page
+–get involved top section
 -marketing advertisement that our new website is up
 –Get involved: when hovering over images, small description shows about each image
 –Release hover functions for all hover animations
