@@ -13,6 +13,7 @@ Once we finish the bone structure of the website
 –hovering over the Get Involved button on homepage, but not on any other page
 –get involved top section
 -marketing advertisement that our new website is up
+–hover descriptions for get involved
 –Release hover functions for all hover animations
 –compress images to make site load faster
 –Open graph image does not work
