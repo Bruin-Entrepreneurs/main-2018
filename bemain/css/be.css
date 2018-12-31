@@ -414,9 +414,10 @@ padding-left: 0;
   color: black;
   font-size: 1em;
   top: 10%;
-  width: 100%;
+  width: auto;
   position: absolute;
   text-align: center;
+  padding: 2em 0.4em;
 }
 
 
