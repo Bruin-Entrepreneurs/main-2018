@@ -10,6 +10,10 @@ The 2018 version of bruinentrepreneurs.org
 
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
 * (less important) browserconfig.xml: create tiles for IE11 <br />
+* Nav bar buttons messed up on iPhone 5 and other small devices <br />
+* !! <a> only gets wider when I add text in it. I cannot set it so that its width is the width of the parent div <br />
+* Get Involved: Center the hover picture text <br />
+* Get Involved: What is the code ??? :  <div class="testimonials-back"\\\\</HEAD>  <br />
 * Natasha: <br />
 * * make the position titles in the not bold version of that font OR make the boxes that the names are in bigger so the longer names fit on the line <br />
 * Make sure everyone's majors and minors are correct <br />
