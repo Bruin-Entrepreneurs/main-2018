@@ -1,22 +1,24 @@
 # main-2018
 The 2018 version of bruinentrepreneurs.org
 
-TO MAKE CHANGES TO THE WEBSITE:
+## TO MAKE CHANGES TO THE WEBSITE: ##
+
 –Push it to the master branch to the repository. And if you plan on changing the main file name for any reason you have to change it in index.php i had to deploy it as a php app as opposed to a static site. Contact Rahul for further info.
 
 
-Once we finish the bone structure of the website
-–(less important) browserconfig.xml: create tiles for IE11
-–Natasha:
-––make the position titles in the not bold version of that font ] OR [ make the boxes that the names are in bigger so the longer names fit on the line
-–Make sure everyone's majors and minors are correct
-–hovering over the Get Involved button on homepage, but not on any other page
-–get involved top section
--marketing advertisement that our new website is up
-–Release hover functions for all hover animations
-–compress images to make site load faster
-–Open graph image does not work
-–yeah maybe just make the text say "Come to our Weekly Nights at Startup UCLA on Tuesdays at 7:30!" and then put some space and then say "Join our general members Facebook group and newsletter mailing list to stay updated!"
-<!-- Yash Note: 
-  I feel like the design creates a great first impression for when the user enters the page. But when the user scrolls down on this home page, the page loses its initial vibe. We should consider adding small designs around the "About Us" and "Initiatives" text, like how Spark SC did theirs.
--->
+## Things To Do ##
+
+* https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
+* (less important) browserconfig.xml: create tiles for IE11 <br />
+* Nav bar buttons messed up on iPhone 5 and other small devices <br />
+* !! <a> only gets wider when I add text in it. I cannot set it so that its width is the width of the parent div <br />
+* Get Involved: Center the hover picture text <br />
+* Get Involved: What is the code ??? :  <div class="testimonials-back"\\\\</HEAD>  <br />
+* Meet the Team: the position titles in the not bold version of that font <br />
+* Meet the Team: Make sure everyone's majors and minors are correct <br />
+* Meet the Team: "Events/Partnerships" text hits texts to the right <br />
+* Homepage:  hovering over the Get Involved button on homepage, but not on any other page <br />
+* General: compress images to make site load faster <br />
+* General: Open graph image does not work <br />
+* yeah maybe just make the text say "Come to our Weekly Nights at Startup UCLA on Tuesdays at 7:30!" and then put some space and then say "Join our general members Facebook group and newsletter mailing list to stay updated!" <br />
+* Marketing: marketing advertisement that our new website is up <br />
