@@ -14,17 +14,11 @@ The 2018 version of bruinentrepreneurs.org
 * !! <a> only gets wider when I add text in it. I cannot set it so that its width is the width of the parent div <br />
 * Get Involved: Center the hover picture text <br />
 * Get Involved: What is the code ??? :  <div class="testimonials-back"\\\\</HEAD>  <br />
-* Natasha: <br />
-* * make the position titles in the not bold version of that font OR make the boxes that the names are in bigger so the longer names fit on the line <br />
-* Make sure everyone's majors and minors are correct <br />
-* hovering over the Get Involved button on homepage, but not on any other page <br />
-* get involved top section <br />
-* marketing advertisement that our new website is up <br />
-* hover descriptions for get involved <br />
-* Release hover functions for all hover animations <br />
-* compress images to make site load faster <br />
-* Open graph image does not work <br />
+* Meet the Team: the position titles in the not bold version of that font <br />
+* Meet the Team: Make sure everyone's majors and minors are correct <br />
+* Meet the Team: "Events/Partnerships" text hits texts to the right <br />
+* Homepage:  hovering over the Get Involved button on homepage, but not on any other page <br />
+* General: compress images to make site load faster <br />
+* General: Open graph image does not work <br />
 * yeah maybe just make the text say "Come to our Weekly Nights at Startup UCLA on Tuesdays at 7:30!" and then put some space and then say "Join our general members Facebook group and newsletter mailing list to stay updated!" <br />
-<!-- Yash Note: 
-  I feel like the design creates a great first impression for when the user enters the page. But when the user scrolls down on this home page, the page loses its initial vibe. We should consider adding small designs around the "About Us" and "Initiatives" text, like how Spark SC did theirs.
--->
+* Marketing: marketing advertisement that our new website is up <br />
