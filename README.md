@@ -10,15 +10,23 @@ The 2018 version of bruinentrepreneurs.org
 
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
 * (less important) browserconfig.xml: create tiles for IE11 <br />
-* Nav bar buttons messed up on iPhone 5 and other small devices <br />
+PERSON C: Yash <br />
+* General: Nav bar buttons messed up on iPhone 5 and other small devices <br />
+* General: Open graph image does not work <br />
+
+PERSON A: Collin <br />
 * Get Involved: Center the hover picture text <br />
+* General: compress images to make site load faster <br />
+
+PERSON B: Cody <br />
 * Meet the Team: the position titles in the not bold version of that font <br />
 * Meet the Team: Make sure everyone's majors and minors are correct <br />
 * Meet the Team: "Events/Partnerships" text hits texts to the right <br />
+
+PERSON C: Yash <br />
 * Homepage:  hovering over the Get Involved button on homepage, but not on any other page <br />
-* General: compress images to make site load faster <br />
-* General: Open graph image does not work <br />
-* yeah maybe just make the text say "Come to our Weekly Nights at Startup UCLA on Tuesdays at 7:30!" and then put some space and then say "Join our general members Facebook group and newsletter mailing list to stay updated!" <br />
+
+PERSON D: Rahul <br />
 * Marketing: marketing advertisement that our new website is up <br />
 
 ### Website Coding Tips ###
