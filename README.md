@@ -19,8 +19,8 @@ PERSON A: Collin <br />
 * General: compress images to make site load faster <br />
 
 PERSON B: Cody <br />
-* Meet the Team: the position titles in the not bold version of that font <br />
-* Meet the Team: Make sure everyone's majors and minors are correct <br />
+* Meet the Team: the position titles in the NOT bold version of that font. Make majors/minors NOT bold too. <br />
+* Meet the Team: Make sure everyone's majors and minors are correct (SAMMY NOTES) <br />
 * Meet the Team: "Events/Partnerships" text hits texts to the right <br />
 
 PERSON C: Yash <br />
