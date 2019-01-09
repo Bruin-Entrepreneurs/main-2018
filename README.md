@@ -14,6 +14,7 @@ The 2018 version of bruinentrepreneurs.org
 PERSON C: Yash <br />
 * General: Nav bar buttons messed up on iPhone 5 and other small devices <br />
 * General: Open graph image does not work <br />
+* Homepage: get involved button covered my design on homepage <br />
 * Take out exclamation point on first line of get involved before stay updated <br />
 
 PERSON A: Collin <br />
