@@ -27,6 +27,7 @@ PERSON B: Cody <br />
 * Meet the Team: "Events/Partnerships" text hits texts to the right <br />
 
 PERSON D: Rahul <br />
+* Kill this website: http://bruin-entrepreneurs.herokuapp.com/
 * Marketing: marketing advertisement that our new website is up <br />
 
 ### Website Coding Tips ###
