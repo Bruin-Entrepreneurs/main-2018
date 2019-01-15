@@ -9,12 +9,11 @@ The 2018 version of bruinentrepreneurs.org
 ## Things To Do ##
 
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
-* (less important) browserconfig.xml: create tiles for IE11 <br />
 
 PERSON C: Yash <br />
 * DONE : General: Nav bar buttons messed up on iPhone 5 and other small devices <br />
 * General: Open graph image does not work <br />
-* DONE : Homepage: get involved button covered my design on homepage <br />
+* DONE : Homepage: get involved button covered my design on homepage, which is why the Get Involved button was not working at times. <br />
 * DONE : Take out exclamation point on first line of get involved before stay updated <br />
 
 PERSON A: Collin <br />
@@ -26,10 +25,8 @@ PERSON B: Cody <br />
 * Meet the Team: Fix everyone's major and minors in SAMMY NOTES <br />
 * Meet the Team: "Events/Partnerships" text hits texts to the right <br />
 
-PERSON C: Yash <br />
-* Homepage:  hovering over the Get Involved button on homepage, but not on any other page <br />
-
 PERSON D: Rahul <br />
+* Kill this website: http://bruin-entrepreneurs.herokuapp.com/
 * Marketing: marketing advertisement that our new website is up <br />
 
 ### Website Coding Tips ###
