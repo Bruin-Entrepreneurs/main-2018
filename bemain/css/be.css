@@ -46,7 +46,6 @@ li.our-initiatives{
 }
 @media (max-width: 39em){
   ul.our-initiatives {
-    /*margin-left: 10%;*/
     width:100%;
   }
 }
@@ -59,11 +58,11 @@ li.our-initiatives{
 .navBar {
   flex-wrap: wrap;
   z-index: 500;
+  max-width: 34em;
 }
 
 .navButtonContainer {
   width: 25%;
-  max-width: 8.5em;
 }
 
 .navButton {
@@ -79,19 +78,6 @@ li.our-initiatives{
   background: #214876;
   color: white;
 }
-
-@media (max-width: 40em) {
-  .navButtonContainer {
-    width: 50%;
-  }
-}
-
-@media (max-width: 30em) {
-  .navButtonContainer {
-    width: 100%;
-  }
-}
-
 #menubar ul li {
   width: 25%;
   /*border: 1px solid blue;*/
@@ -524,6 +510,19 @@ padding-left: 0;
   transform: scale(1.13);
   transition: ease-in-out 0.4s;
 }
+
+@media (max-width: 60em) {
+  .navButtonContainer {
+    width: 50%;
+  }
+}
+
+@media (max-width: 32em) {
+  .navButtonContainer {
+    width: 100%;
+  }
+}
+
 
 @keyframes spinAround {
   from {
