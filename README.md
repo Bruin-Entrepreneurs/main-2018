@@ -12,13 +12,12 @@ The 2018 version of bruinentrepreneurs.org
 
 PERSON C: Yash <br />
 * DONE : General: Nav bar buttons messed up on iPhone 5 and other small devices <br />
-* General: Open graph image does not work <br />
 * DONE : Homepage: get involved button covered my design on homepage, which is why the Get Involved button was not working at times. <br />
 * DONE : Take out exclamation point on first line of get involved before stay updated <br />
 
 PERSON A: Collin <br />
-* Get Involved: Center the hover picture text <br />
-* General: compress images to make site load faster <br />
+* DONE : Get Involved: Center the hover picture text <br />
+* DONE : General: compress images to make site load faster <br />
 
 PERSON B: Cody <br />
 * Meet the Team: the position titles in the NOT bold version of that font. Make majors/minors NOT bold too. <br />
@@ -28,6 +27,7 @@ PERSON B: Cody <br />
 PERSON D: Rahul <br />
 * Kill this website: http://bruin-entrepreneurs.herokuapp.com/
 * Marketing: marketing advertisement that our new website is up <br />
+* General: Open graph image does not work <br />
 
 ### Website Coding Tips ###
 * Adding an <a> tag: if you are trying to set an <a> object to have a width and a height, you must give it the property "display: block".
