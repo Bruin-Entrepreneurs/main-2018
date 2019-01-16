@@ -31,3 +31,4 @@ PERSON D: Rahul <br />
 
 ### Website Coding Tips ###
 * Adding an <a> tag: if you are trying to set an <a> object to have a width and a height, you must give it the property "display: block".
+* @media css functions should be at the bottom of the doc… otherwise, they may not be called if a redefinition of the class is later in the doc
