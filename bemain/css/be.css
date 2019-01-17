@@ -13,7 +13,6 @@ body {
 }
 
 
-
 ul.no-list {
   list-style-type: none;
   -webkit-padding-start: 0;
@@ -22,8 +21,8 @@ ul.no-list {
   text-align: center;
   justify-content: center;
 }
+
 ul.no-list li {
-  /*width: 50%;*/
   display: inline-block;
 }
 ul.no-list li.event-card {
@@ -41,12 +40,12 @@ ul.our-initiatives {
   text-align: center;
 }
 
+
 li.our-initiatives{
   width: 50%;
 }
 @media (max-width: 39em){
   ul.our-initiatives {
-    /*margin-left: 10%;*/
     width:100%;
   }
 }
@@ -55,8 +54,34 @@ li.our-initiatives{
   margin: 0 auto;
   margin-top: 1.5em;
 }
+
+.navBar {
+  flex-wrap: wrap;
+  z-index: 500;
+  max-width: 34em;
+}
+
+.navButtonContainer {
+  width: 25%;
+}
+
+.navButton {
+  text-decoration: none;
+  padding: .4em;
+  color: #214876;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.7em;
+}
+
+.navButton:hover {
+  background: #214876;
+  color: white;
+}
 #menubar ul li {
-  padding: 0 2em 0 1em;
+  width: 25%;
+  /*border: 1px solid blue;*/
+  background-color: purple;
 }
 
 #menubar ul li a {
@@ -66,7 +91,7 @@ li.our-initiatives{
   text-transform: uppercase;
   font-weight: bold;
   font-size: 0.7em;
-  }
+}
 
 #menubar ul li a:hover {
   background: #214876;
@@ -82,13 +107,16 @@ li.our-initiatives{
   position: absolute;
   top: 1em;
   left: 2em;
+  z-index: -1;
 }
 .hero .right-stars {
   position: absolute;
   top: -1em;
+  z-index: -1;
   right: 2em;
+
 }
-@media (max-width: 59em) {
+@media (max-width: 60em) {
   .hero .left-stars {display: none;}
   .hero .right-stars {display: none;}
   .hero .title {font-size: 2em;}
@@ -483,12 +511,26 @@ padding-left: 0;
   transition: ease-in-out 0.4s;
 }
 
+<<<<<<< HEAD
 @media (max-width: 30em){
   .be-pics-text {
     font-size: .8em;
   }
 }
 
+=======
+@media (max-width: 60em) {
+  .navButtonContainer {
+    width: 50%;
+  }
+}
+
+@media (max-width: 32em) {
+  .navButtonContainer {
+    width: 100%;
+  }
+}
+>>>>>>> d30b2fb56f2df9ab099a1b5e086e76b260ee8dae
 
 
 @keyframes spinAround {
