@@ -232,7 +232,13 @@ li.our-initiatives{
 
 .card {
   text-align: center;
+  /*border: 1px solid red;*/
 }
+
+.card .title {
+  font-weight: normal;
+}
+
 .card a {
   display: block;
 }
@@ -252,10 +258,12 @@ li.our-initiatives{
   padding-top: 0.5em;
   font-size: 0.7em;
   font-style: italic;
+  font-weight: normal;
 }
 .card .year {
   font-size: 0.7em;
   font-style: italic;
+  font-weight: normal;
 }
 
 .section ul {
@@ -273,8 +281,9 @@ li.our-initiatives{
   flex-wrap: wrap;
   flex-direction: row;
 }
+
 .section ul.people .card {
-  width: 6em;
+  width: 8.2em;
 }
 .section ul.people .card .image-frame {
   padding: 0;
@@ -293,6 +302,7 @@ li.our-initiatives{
   display: block;
   max-width: 100%;
 }
+
 
 #footer {
   text-align: center;
@@ -370,7 +380,6 @@ li.our-initiatives{
 .testimonial-container {
 	text-align: center;
 	display: flex;
-
 }
 
 .testimonial-container #quote {
