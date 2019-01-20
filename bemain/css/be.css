@@ -98,6 +98,31 @@ li.our-initiatives{
   color: white;
 }
 
+.get-involved-button {
+  display: block;
+  width: 10em;
+  padding: .6em;
+  margin: auto;
+
+  border-radius:.6em;
+  background-color: rgba(42, 72, 115, 1);
+
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.8em;
+  color: white;
+  transition: ease-in-out .1s;
+  -webkit-transition: ease-in-out .1s;
+}
+
+.get-involved-button:hover {
+  background-color: rgba(42, 72, 115, .8);
+  color: white;
+  transition: ease-in-out .1s;
+  -webkit-transition: ease-in-out .1s;
+}
+
 .hero {
 /*  min-height: 40em; */
   text-align: center;
@@ -131,7 +156,6 @@ li.our-initiatives{
   .what-text h4 {text-align: center;}
   .what-text p {text-align: center;}
 }
-
 
 .hero .logo {
   max-width: 6em;
@@ -232,7 +256,13 @@ li.our-initiatives{
 
 .card {
   text-align: center;
+  /*border: 1px solid red;*/
 }
+
+.card .title {
+  font-weight: normal;
+}
+
 .card a {
   display: block;
 }
@@ -252,10 +282,12 @@ li.our-initiatives{
   padding-top: 0.5em;
   font-size: 0.7em;
   font-style: italic;
+  font-weight: normal;
 }
 .card .year {
   font-size: 0.7em;
   font-style: italic;
+  font-weight: normal;
 }
 
 .card .title {
@@ -277,8 +309,9 @@ li.our-initiatives{
   flex-wrap: wrap;
   flex-direction: row;
 }
+
 .section ul.people .card {
-  width: 6em;
+  width: 8.2em;
 }
 .section ul.people .card .image-frame {
   padding: 0;
@@ -297,6 +330,7 @@ li.our-initiatives{
   display: block;
   max-width: 100%;
 }
+
 
 #footer {
   text-align: center;
@@ -374,7 +408,6 @@ li.our-initiatives{
 .testimonial-container {
 	text-align: center;
 	display: flex;
-
 }
 
 .testimonial-container #quote {
