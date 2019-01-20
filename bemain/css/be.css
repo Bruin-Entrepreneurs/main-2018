@@ -98,6 +98,31 @@ li.our-initiatives{
   color: white;
 }
 
+.get-involved-button {
+  display: block;
+  width: 10em;
+  padding: .6em;
+  margin: auto;
+
+  border-radius:.6em;
+  background-color: rgba(42, 72, 115, 1);
+
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.8em;
+  color: white;
+  transition: ease-in-out .1s;
+  -webkit-transition: ease-in-out .1s;
+}
+
+.get-involved-button:hover {
+  background-color: rgba(42, 72, 115, .8);
+  color: white;
+  transition: ease-in-out .1s;
+  -webkit-transition: ease-in-out .1s;
+}
+
 .hero {
 /*  min-height: 40em; */
   text-align: center;
@@ -131,7 +156,6 @@ li.our-initiatives{
   .what-text h4 {text-align: center;}
   .what-text p {text-align: center;}
 }
-
 
 .hero .logo {
   max-width: 6em;
