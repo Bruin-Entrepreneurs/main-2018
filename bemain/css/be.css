@@ -511,14 +511,12 @@ padding-left: 0;
   transition: ease-in-out 0.4s;
 }
 
-<<<<<<< HEAD
 @media (max-width: 30em){
   .be-pics-text {
     font-size: .8em;
   }
 }
 
-=======
 @media (max-width: 60em) {
   .navButtonContainer {
     width: 50%;
@@ -530,7 +528,6 @@ padding-left: 0;
     width: 100%;
   }
 }
->>>>>>> d30b2fb56f2df9ab099a1b5e086e76b260ee8dae
 
 
 @keyframes spinAround {
