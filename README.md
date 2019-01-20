@@ -11,13 +11,8 @@ The 2018 version of bruinentrepreneurs.org
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
 
 PERSON C: Yash <br />
-* DONE : General: Nav bar buttons messed up on iPhone 5 and other small devices <br />
-* DONE : Homepage: get involved button covered my design on homepage, which is why the Get Involved button was not working at times. <br />
-* DONE : Take out exclamation point on first line of get involved before stay updated <br />
 
 PERSON A: Collin <br />
-* DONE : Get Involved: Center the hover picture text <br />
-* DONE : General: compress images to make site load faster <br />
 
 PERSON B: Cody <br />
 * Meet the Team: the position titles in the NOT bold version of that font. Make majors/minors NOT bold too. <br />
