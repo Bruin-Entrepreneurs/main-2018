@@ -298,6 +298,10 @@ li.our-initiatives{
   font-weight: normal;
 }
 
+.card .title {
+  font-weight: normal;
+}
+
 .section ul {
   text-align: left;
 }
@@ -542,7 +546,7 @@ padding-left: 0;
 }
 
 .what-img:hover {
-  animation: float 2s ease-in-out infinite;
+  animation: float 1.5s ease-in-out infinite;
 }
 
 .image-frame:hover {
