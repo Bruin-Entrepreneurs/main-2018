@@ -7,7 +7,7 @@ The 2018 version of bruinentrepreneurs.org
 
 
 ## Things To Do ##
-
+* FIX FAVICON AND OPEN GRAPH IMAGE
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
 
 PERSON C: Yash <br />
