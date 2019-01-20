@@ -98,6 +98,14 @@ li.our-initiatives{
   color: white;
 }
 
+#firstInvolved {
+  flex-direction: column;
+}
+
+.getInvolvedDescription {
+  width: 94%;
+}
+
 .get-involved-button {
   display: block;
   width: 10em;
@@ -106,21 +114,23 @@ li.our-initiatives{
 
   border-radius:.6em;
   background-color: rgba(42, 72, 115, 1);
+  border: 2px solid transparent;
 
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 0.8em;
   color: white;
-  transition: ease-in-out .1s;
-  -webkit-transition: ease-in-out .1s;
+  transition: ease-in-out .2s;
+  -webkit-transition: ease-in-out .2s;
 }
 
 .get-involved-button:hover {
-  background-color: rgba(42, 72, 115, .8);
-  color: white;
-  transition: ease-in-out .1s;
-  -webkit-transition: ease-in-out .1s;
+  background-color: rgba(226, 242, 249, .6);
+  border: 2px solid #2A4873;
+  color: #2A4873;
+  transition: ease-in-out .2s;
+  -webkit-transition: ease-in-out .2s;
 }
 
 .hero {
@@ -267,7 +277,7 @@ li.our-initiatives{
   display: block;
 }
 .card img {
-  max-width: 6em;
+  max-width: 7em;
 }
 .card span {
   font-size: 0.8em;
@@ -316,10 +326,10 @@ li.our-initiatives{
 .section ul.people .card .image-frame {
   padding: 0;
   margin: 0;
-  height: 6em;
-  width: 6em;
+  height: 7em;
+  width: 7em;
   border-radius: 100%;
-  background: #214876;
+  background: transparent;
   overflow: hidden;
   display: inline-block;
   transition: ease-in-out .3s;
