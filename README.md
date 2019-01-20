@@ -16,7 +16,6 @@ PERSON A: Collin <br />
 
 PERSON B: Cody <br />
 * Meet the Team: the position titles in the NOT bold version of that font. Make majors/minors NOT bold too. <br />
-* Meet the Team: Fix everyone's major and minors in SAMMY NOTES <br />
 * Meet the Team: "Events/Partnerships" text hits texts to the right <br />
 
 PERSON D: Rahul <br />
