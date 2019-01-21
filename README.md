@@ -9,17 +9,8 @@ The 2018 version of bruinentrepreneurs.org
 ## Things To Do ##
 * FIX FAVICON AND OPEN GRAPH IMAGE
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
-
-PERSON C: Yash <br />
-
-PERSON A: Collin <br />
-
-PERSON B: Cody <br />
-* Meet the Team: the position titles in the NOT bold version of that font. Make majors/minors NOT bold too. <br />
-* Meet the Team: "Events/Partnerships" text hits texts to the right <br />
-
-PERSON D: Rahul <br />
-* Kill this website: http://bruin-entrepreneurs.herokuapp.com/
+* Yash and Cody are working on FaceBook Calendar for HomePage <br />
+* Rahul: Kill this website: http://bruin-entrepreneurs.herokuapp.com/
 * Marketing: marketing advertisement that our new website is up <br />
 * General: Open graph image does not work <br />
 
