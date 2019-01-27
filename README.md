@@ -8,6 +8,7 @@ The 2018 version of bruinentrepreneurs.org
 
 ## Things To Do ##
 * FIX FAVICON AND OPEN GRAPH IMAGE
+* MAILCHIMP: https://us7.admin.mailchimp.com/lists/dashboard/signup-forms?id=122265, go to lists
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
 * Yash and Cody are working on FaceBook Calendar for HomePage <br />
 * Rahul: Kill this website: http://bruin-entrepreneurs.herokuapp.com/
