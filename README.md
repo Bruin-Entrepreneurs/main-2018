@@ -15,9 +15,6 @@ The 2018 version of bruinentrepreneurs.org
 * Marketing: marketing advertisement that our new website is up <br />
 * General: Open graph image does not work <br />
 
-Small: <br />
-* Change Natasha's minor to Design Media Arts
-
 ### Website Coding Tips ###
 * Adding an <a> tag: if you are trying to set an <a> object to have a width and a height, you must give it the property "display: block".
 * @media css functions should be at the bottom of the doc… otherwise, they may not be called if a redefinition of the class is later in the doc
