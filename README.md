@@ -3,10 +3,11 @@ The 2018 version of bruinentrepreneurs.org
 
 ## TO MAKE CHANGES TO THE WEBSITE: ##
 
-–Push it to the master branch to the repository. And if you plan on changing the main file name for any reason you have to change it in index.php i had to deploy it as a php app as opposed to a static site. Contact Rahul for further info.
+Push it to the master branch to the repository. And if you plan on changing the main file name for any reason you have to change it in index.php i had to deploy it as a php app as opposed to a static site. Contact Rahul for further info.
 
 
 ## Things To Do ##
+* On private browsing: can't scroll down immediately after webpage loads, takes forever to load
 * Yash: FIX FAVICON AND OPEN GRAPH IMAGE
 * Yash: MAILCHIMP: https://us7.admin.mailchimp.com/lists/dashboard/signup-forms?id=122265, go to lists
 * Yash & Rahul: SEO
