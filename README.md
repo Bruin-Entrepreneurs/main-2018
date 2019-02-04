@@ -13,7 +13,7 @@ Push it to the master branch to the repository. And if you plan on changing the 
 * Yash & Rahul: SEO
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
 * Cody:FaceBook Calendar for HomePage <br />
-* Rahul: Kill this website: http://bruin-entrepreneurs.herokuapp.com/
+* Rahul: Kill this website: http://bruin-entrepreneurs.herokuapp.com/ and the others
 * Everyone: Marketing: marketing advertisement that our new website is up <br />
 
 ### Website Coding Tips ###
