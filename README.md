@@ -10,6 +10,7 @@ Push it to the master branch to the repository. And if you plan on changing the 
 * On private browsing: can't scroll down immediately after webpage loads, takes forever to load
 * Yash: FIX FAVICON AND OPEN GRAPH IMAGE
 * Yash: MAILCHIMP: https://us7.admin.mailchimp.com/lists/dashboard/signup-forms?id=122265, go to lists
+* Anyone: Add Henna to the Meet the Team page once natasha puts the image up
 * Yash & Rahul: SEO
 * https://docs.google.com/document/d/1ZnTGz1vukLbLB00kToG-ZvBbLz6EcgVPX_KE8oWbi6Y/edit <br />
 * Cody:FaceBook Calendar for HomePage <br />
