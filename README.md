@@ -16,6 +16,7 @@ Push it to the master branch to the repository. And if you plan on changing the 
 * Cody:FaceBook Calendar for HomePage <br />
 * Rahul: Kill this website: http://bruin-entrepreneurs.herokuapp.com/ and the others
 * Everyone: Marketing: marketing advertisement that our new website is up <br />
+* Anyone: fix mobile version
 
 ### Website Coding Tips ###
 * Adding an <a> tag: if you are trying to set an <a> object to have a width and a height, you must give it the property "display: block".
