@@ -44,11 +44,6 @@ ul.our-initiatives {
 li.our-initiatives{
   width: 50%;
 }
-@media (max-width: 39em){
-  ul.our-initiatives {
-    width:100%;
-  }
-}
 
 #menubar {
   margin: 0 auto;
@@ -151,21 +146,6 @@ li.our-initiatives{
   right: 2em;
 
 }
-@media (max-width: 60em) {
-  .hero .left-stars {display: none;}
-  .hero .right-stars {display: none;}
-  .hero .title {font-size: 2em;}
-  .our-initiatives ul {text-align: center;}
-
-}
-
-@media (max-width: 32em) {
-  .hero .title {font-size: 1.5em;}
-  .hero .truck {display: none;}
-  .hero .scooter {display: none;}
-  .what-text h4 {text-align: center;}
-  .what-text p {text-align: center;}
-}
 
 .hero .logo {
   max-width: 6em;
@@ -236,12 +216,6 @@ li.our-initiatives{
 
   padding-right: 0.5em;
   padding-left: 0.5em;
-}
-
-@media (max-width: 41em) {
-  .what-sections {
-    flex-direction: column;
-  }
 }
 
 
@@ -339,6 +313,17 @@ li.our-initiatives{
 .section ul.people .card span {
   display: block;
   max-width: 100%;
+}
+
+.poweredImgs {
+  justify-content: space-around;
+}
+
+.poweredImg {
+  width: 21.33%;
+  margin-left: 5%;
+  margin-right: 5%;
+  filter: grayscale(100%);
 }
 
 
@@ -535,13 +520,6 @@ padding-left: 0;
   /*padding-bottom: 3em;*/
 }
 
-@media (max-width: 20em) {
-.be-pics-img {
-  width: 100%;
-  height: auto;
-}
-}
-
 .main-img:hover {
   /*animation: spinAround 2s linear infinite;*/
   animation: magnify .5s ease-in-out infinite alternate;
@@ -556,6 +534,10 @@ padding-left: 0;
   /*animation-fill-mode: forwards; OFF-HOVER does not work*/
   transform: scale(1.13);
   transition: ease-in-out 0.4s;
+}
+
+.blackstoneImg {
+
 }
 
 @media (max-width: 30em){
@@ -631,6 +613,42 @@ padding-left: 0;
   100% {
     box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
     transform: translatey(0px);
+  }
+}
+
+@media (max-width: 20em) {
+.be-pics-img {
+  width: 100%;
+  height: auto;
+}
+}
+
+@media (max-width: 39em){
+  ul.our-initiatives {
+    width:100%;
+  }
+}
+
+@media (max-width: 60em) {
+  .hero .left-stars {display: none;}
+  .hero .right-stars {display: none;}
+  .hero .title {font-size: 2em;}
+  .our-initiatives ul {text-align: center;}
+
+}
+
+@media (max-width: 32em) {
+  .hero .title {font-size: 1.5em;}
+  .hero .truck {display: none;}
+  .hero .scooter {display: none;}
+  .what-text h4 {text-align: center;}
+  .what-text p {text-align: center;}
+  .poweredImgs {flex-direction: column;}
+}
+
+@media (max-width: 41em) {
+  .what-sections {
+    flex-direction: column;
   }
 }
 
