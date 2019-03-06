@@ -321,8 +321,7 @@ li.our-initiatives{
 
 .poweredImg {
   width: 21.33%;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin: 5%;
   filter: grayscale(100%);
 }
 
