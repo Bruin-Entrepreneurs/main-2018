@@ -317,14 +317,31 @@ li.our-initiatives{
 
 .poweredImgs {
   justify-content: space-around;
+  width: 100%;
+}
+
+.poweredImgContainer {
+  display: block;
+  height: 5rem;
+  margin: 1rem;
+  transform: rotateX(0deg);
+  transition: 0.2s ease-in-out;
 }
 
 .poweredImg {
-  width: 21.33%;
-  margin: 5%;
+  height: 100%;
+  opacity: 0.7;
   filter: grayscale(100%);
+  transform: rotateX(0deg);
+  transition: 0.2s ease-in-out;
 }
 
+.poweredImgContainer:hover .poweredImg {
+  filter: grayscale(0%);
+  transform: rotateX(360deg);
+  opacity: 1;
+  transition: 0.2s ease-in-out;
+}
 
 #footer {
   text-align: center;
