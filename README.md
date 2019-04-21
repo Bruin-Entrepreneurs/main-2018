@@ -8,6 +8,7 @@ Push it to the master branch to the repository. And if you plan on changing the 
 
 ## Things To Do ##
 * On private browsing: can't scroll down immediately after webpage loads, takes forever to load
+* Particle.js animation background (home screen)
 * Yash: FIX FAVICON AND OPEN GRAPH IMAGE
 * Yash: MAILCHIMP: https://us7.admin.mailchimp.com/lists/dashboard/signup-forms?id=122265, go to lists
 * Anyone: Add Henna to the Meet the Team page once natasha puts the image up
