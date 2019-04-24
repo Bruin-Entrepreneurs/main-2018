@@ -49,9 +49,12 @@
   <link rel="shortcut icon" href="img/favicon/favicon.ico">
 
   <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/95fffc4eb179e8cedecfbc026/a123f66abbfe3cb31c06292af.js");</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+  <script src="prefetch.js"> </script>
 </head>
 
-<body>
+<body onload="prefetch()">
   <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
@@ -145,6 +148,10 @@
       <li><a href="mailto:contact@bruinentrepreneurs.org"><img src="img/email.png" alt="BE email"/></a></li>
     </ul>
   </div>
+
+  <script>
+    prefetch();
+  </script>
 
 <!--   <script src="js/vendor/modernizr-3.6.0.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
