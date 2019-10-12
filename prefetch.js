@@ -1,4 +1,5 @@
 function prefetch() {
+	console.log("prefetching images...");
 	var srcs = [
 		'img/Facebook_Profile_Pictures_2018/Emily.png',
 		'img/Facebook_Profile_Pictures_2018/Aneri.png',
