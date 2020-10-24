@@ -126,7 +126,7 @@
         execBoard: [
           {name: "Cody Swain", title: "President", major: "Computer Science", year: "2021", photo: "../img/Facebook_Profile_Pictures_2018/Cody.png"},
           {name: "Monica Bellare", title: "External VP", major: "Computer Science", year: "2022", photo: "../img/Facebook_Profile_Pictures_2018/Monica.png"},
-          {name: "Franklin Liang", title: "Internal VP", major: "Business Economics Accounting Minor", year: "2022", photo: "../img/Facebook_Profile_Pictures_2018/Franklin.png"},
+          {name: "Frankling Liang", title: "Internal VP", major: "Business Economics Accounting Minor", year: "2022", photo: "../img/Facebook_Profile_Pictures_2018/Franklin.png"},
         ],
         directors: [
           {name: "Paolo Shamoon", title: "Startup Labs Director", major: "Political Science", year: "2021", photo: "../img/Facebook_Profile_Pictures_2018/Paolo.png"},
